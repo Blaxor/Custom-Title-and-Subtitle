@@ -1,0 +1,8 @@
+name: Custom-Title-And-Subtitle
+version: 1.0
+main: ro.deiutzblaxo.CustomTitleandSubtitle.Main
+commands:
+  reloadctas:
+    description: Reload the plugin Custom Title and Subtitle
+    usage: /reloadctas 
+  

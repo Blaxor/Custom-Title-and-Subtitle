@@ -1,0 +1,13 @@
+#################################Custom Title and Subtitle#################################################################
+#Please don`t remove ''!
+EnableTitle: true
+Title: '&EWelcome &4%player% ,'
+EnableSubtitle: true
+Subtitle: '&Eto our server!'
+Reload: '&4Custom Title and Subtile has been reloaded!'
+NoPermissionReload: '&4You can`t do that!'
+
+
+##     %player%
+##       ||
+##   Player name!1
